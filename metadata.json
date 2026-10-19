@@ -1,0 +1,6 @@
+{
+  "name": "KompuPedia TIK - Lab Interaktif Perangkat Komputer",
+  "description": "Media pembelajaran interaktif pengenalan perangkat keras komputer (Hardware TIK) lengkap dengan visualisasi, analogi mudah, simulasi rakit PC, kuis gamifikasi, dan modul guru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
